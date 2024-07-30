@@ -4,7 +4,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "Srinikesh Singarapu",
   initials: "SS",
-  url: "srinikeshsingarapu.com",
+  url: "",
   location: "Toronto, ON",
   description:
     "Aspiring TPM. I love building things and helping people.",
