@@ -4,8 +4,8 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "Srinikesh Singarapu",
   initials: "SS",
-  url: "",
-  location: "",
+  url: "https://www.youtube.com/watch?v=eLmpKKaQL54",
+  location: "https://neetcode.io/courses/dsa-for-beginners/26",
   description:
     "Aspiring TPM. I love building things and helping people.",
   summary:
