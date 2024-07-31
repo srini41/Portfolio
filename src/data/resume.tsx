@@ -4,8 +4,8 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "Srinikesh Singarapu",
   initials: "SS",
-  url: "google.com",
-  location: "https://www.google.com/maps/place/sanfrancisco",
+  url: "",
+  location: "",
   description:
     "Aspiring TPM. I love building things and helping people.",
   summary:
