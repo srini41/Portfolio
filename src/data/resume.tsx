@@ -5,7 +5,7 @@ export const DATA = {
   name: "Srinikesh Singarapu",
   initials: "SS",
   url: "google.com",
-  location: "Toronto, ON",
+  location: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "Aspiring TPM. I love building things and helping people.",
   summary:
